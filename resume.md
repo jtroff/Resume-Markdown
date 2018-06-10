@@ -8,7 +8,7 @@
 		<p>
             801-800-5577 | shadowforce77@gmail.com
         </p>
-		#Jeremy Troff#
+		#Jeremy Troff
 	    ###Objective
 		    <p>
                 To use my knowledge to help those around me to the best of my ability.

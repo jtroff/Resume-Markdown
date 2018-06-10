@@ -5,7 +5,8 @@
 ### Objective
 
 To use my knowledge to help those around me to the best of my ability.
-    
+
+
 ### Work History
 
 **QA Engineer, Landmark Home Warranty, South Jordan, Utah**

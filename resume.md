@@ -1,20 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Resume</title>
-</head>
-<body>
+801-800-5577 | shadowforce77@gmail.com
 
-		<p>
-            801-800-5577 | shadowforce77@gmail.com
-        </p>
-		#Jeremy Troff
-	    ###Objective
-		    <p>
-                To use my knowledge to help those around me to the best of my ability.
-            </p><br>
+#Jeremy Troff
+
+###Objective
+
+To use my knowledge to help those around me to the best of my ability.
     
-        ###Work History
+###Work History
             <p>
                 <b>QA Engineer, Landmark Home Warranty, South Jordan, Utah</b>
             </p>

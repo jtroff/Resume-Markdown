@@ -1,6 +1,5 @@
 801-800-5577 | shadowforce77@gmail.com
-
-#Jeremy Troff
+#Jeremy Troff#
 
 ###Objective
 
